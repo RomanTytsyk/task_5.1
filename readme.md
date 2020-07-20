@@ -6,7 +6,7 @@
 LICENSE [MIT](./license.md)
 
 
-![git-logo](./git-logo.png)
+![git-logo](./git-logo1.png)
 
 ---
 
